@@ -2,20 +2,23 @@
 
 A complete full-stack course management system. This is a very similar website to Udemy / Coursera. 
 
+* * *
+### Client Frontend Link:
+
 [Client Live Site Link](https://umc2frontend.netlify.app/)
-
-### Client Login Credentials:
-
 **Username:** `student`
 **Password:** `studentPa$$`
 
+* * *
+
+* * *
+### Admin Frontend Link:
+
 [Admin Live Site Link](https://umc2admin.netlify.app/)
-
-### Admin Login Credentials:
-
 **Username:** `demo`
 **Password:** `demoPa$$`
 
+* * *
 
 **Features:**
 
