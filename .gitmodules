@@ -1,0 +1,9 @@
+[submodule "frontend-admin"]
+	path = frontend-admin
+	url = https://github.com/shahriar-programmer/UMC-2.0-Admin
+[submodule "frontend-client"]
+	path = frontend-client
+	url = https://github.com/shahriar-programmer/UMC-2.0-Client
+[submodule "server"]
+	path = server
+	url = https://github.com/shahriar-programmer/UMC-2.0-Backend
