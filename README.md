@@ -6,15 +6,15 @@ A complete full-stack course management system. This is a very similar website t
 ### Client Frontend Link:
 
 [Client Live Site Link](https://umc2frontend.netlify.app/)
+
 **Username:** `student`
 **Password:** `studentPa$$`
-
-* * *
 
 * * *
 ### Admin Frontend Link:
 
 [Admin Live Site Link](https://umc2admin.netlify.app/)
+
 **Username:** `demo`
 **Password:** `demoPa$$`
 
